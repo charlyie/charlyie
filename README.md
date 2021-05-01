@@ -1,6 +1,7 @@
 ### 👋  &nbsp; Hello, I'm Charles Bourgeaux
 
 I'm a engineering manager who is passionate in API, Open source projects, and using low-impact technologies 🌱
+
 Some technologies I'm working with are PHP (mainly), Bash, Linux, JS, Amazon AWS (not that *low-impact*...).
 
 I created in 2016 the [reSmush.it API](https://resmush.it) to bring optimized pictures to developers, and for free :) 
