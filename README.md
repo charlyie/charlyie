@@ -20,7 +20,7 @@ I am also working as CTO for the [French Intranet solution Inside](https://www.i
 
 🌱  I work a lot in my vegetable garden
 
-✍️  I'm quite addicted to [Notion.so](https://notion.so)
+✍️  I'm quite addicted to [Notion.so](https://notion.so) 😍
 
 🏃‍♂️ In my free time, I'm developing apps, running, riding and play the piano.
 
