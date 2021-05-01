@@ -25,7 +25,7 @@ I am also working as CTO for the [French Intranet solution Inside](https://www.i
 🏃‍♂️&nbsp; In my free time, I'm developing apps, running, riding and play the piano.
 
 
-### 🛠 &nbsp;Tech Stack
+#### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Slim Framework](https://img.shields.io/badge/-Slim%20Framework-05122A?style=flat&logo=php)
