@@ -17,6 +17,8 @@ I am also working as CTO for the [French Intranet solution Inside](https://www.i
 
 ⚙️ &nbsp; I'm fond of automatization, simplifications for final users, and I use Pipelines, CI and CD
 
+👩 &nbsp; I work also as a DPO, and GDPR has few secrets to me :)
+
 🎓 &nbsp; I studied in [Dublin City University](https://www.dcu.ie), Ireland, and I have a Masters degree in Telecommunications. 
 
 🌱 &nbsp; I work a lot in my vegetable garden
