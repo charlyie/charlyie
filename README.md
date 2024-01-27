@@ -21,7 +21,7 @@ I'm currently working as CTO since June 2022 at [medici.tv](https://www.medici.t
 
 👩 &nbsp; I work also as a DPO, and GDPR has few secrets to me :)
 
-🎓 &nbsp; I studied in [Dublin City University](https://www.dcu.ie), Ireland, and I have a Masters degree in Telecommunications. 
+🎓 &nbsp; I studied in [Dublin City University](https://www.dcu.ie), Ireland, and I graduated a Masters degree in Telecommunications. 
 
 🌱 &nbsp; I work a lot in my vegetable garden
 
