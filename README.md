@@ -9,7 +9,7 @@ Now, this service is the biggest FREE API in Image Optimization (with more than 
 
 I worked during 5 years as CTO for the [French Intranet solution Inside](https://www.intranet-inside.com/).🇫🇷 
 
-I'm currently working as CTO since June 2022 at [Medici.tv](https://www.medici.tv/) which is the Netflix of Classical Music. 🎵
+I'm currently working as CTO since June 2022 at [medici.tv](https://www.medici.tv/) which is the Netflix of Classical Music. 🎵
 
 
 
