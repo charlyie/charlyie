@@ -2,10 +2,10 @@
 
 I'm a CTO who is passionate in API, Open source projects, and using low-impact technologies 🌱
 
-Some technologies I'm working with are PHP (mainly), Bash, Linux, JS, Amazon AWS (not that *low-impact*...).
+Some technologies I'm working with are PHP (mainly), Python, Amazon AWS (not that *low-impact*...), Bash, Linux (Sysadmin), Github Actions.
 
 I created in 2016 the [reSmush.it API](https://resmush.it) to bring optimized pictures to developers, and for free :) 
-Now, this service is the biggest FREE API in Image Optimization (with more than **10 billion images optimized**). It's optimizing **15 million pictures** daily, and I'm working hard to provide a strong reliability 💪
+Now, this service is the biggest FREE API in Image Optimization (with more than **25 billion images optimized**). It's optimizing **15 million pictures** daily, and I'm working hard to provide a strong reliability 💪
 
 I worked during 5 years as CTO for the [French Intranet solution Inside](https://www.intranet-inside.com/).🇫🇷 
 
@@ -27,7 +27,7 @@ I'm currently working as CTO since June 2022 at [Medici.tv](https://www.medici.t
 
 ✍️ &nbsp; I'm quite addicted to [Notion.so](https://notion.so) 😍
 
-🏃‍♂️&nbsp; In my free time, I'm developing apps, running, riding and play the piano.
+🏃‍♂️&nbsp; In my free time, I'm developing apps, running, beekeeping, riding bike and play the piano.
 
 
 #### 🛠 &nbsp;Tech Stack
