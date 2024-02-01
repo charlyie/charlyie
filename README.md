@@ -17,9 +17,9 @@ I'm currently working as CTO since June 2022 at [medici.tv](https://www.medici.t
 
 💡 &nbsp; I like to test new technologies and find new ways to lower my ecological impact.
 
-⚙️ &nbsp; I'm fond of automatization, simplifications for final users, and I use Pipelines, CI and CD
+⚙️ &nbsp; I'm fond of automatization, simplifications for final users, and I use Github Actions, Bitbucket Pipelines, CI and CD. I also work on finOps aspects (especially with Amazon AWS)
 
-👩 &nbsp; I work also as a DPO, and GDPR has few secrets to me :)
+👩 &nbsp; I worked also as a DPO, and GDPR has few secrets to me. What's more, I'm use to work on WCAG/RGAA topics :)
 
 🎓 &nbsp; I studied in [Dublin City University](https://www.dcu.ie), Ireland, and I graduated a Masters degree in Telecommunications. 
 
