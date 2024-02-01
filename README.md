@@ -2,7 +2,7 @@
 
 I'm a CTO who is passionate in API, Open source projects, and using low-impact technologies 🌱
 
-Some technologies I'm working with are PHP (mainly), Python, Amazon AWS (not that *low-impact*...), Bash, Linux (Sysadmin), Github Actions.
+Some technologies I'm working with are PHP (mainly), Python, Amazon AWS (not that *low-impact*...), Bash, Linux (Sysadmin), Github Actions. x
 
 I created in 2015 the [reSmush.it API](https://resmush.it) to bring optimized pictures to developers, and for free :) 
 Now, this service is the biggest FREE API in Image Optimization (with more than **25 billion images optimized**). It's optimizing **15 million pictures** daily, and I'm working hard to provide a strong reliability 💪
