@@ -1,11 +1,11 @@
 ### 👋  &nbsp; Hello, I'm Charles Bourgeaux
 
-I'm a CTO who is passionate in API, Open source projects, and using low-impact technologies 🌱
+I'm a CTO who is passionate in finding solutions to day-to-day problems. I'm working with AI, API, Open source projects, and I'm working also on low-impact technologies 🌱
 
-Some technologies I'm working with are PHP (mainly), Python, Amazon AWS (not that *low-impact*...), Bash, Linux (Sysadmin), Github Actions. x
+Some technologies I'm working with are Python (mainly), OpenAI (lot of AI!), JS, PHP (mainly), Amazon AWS (Lambda, ECS, RDS, Cloudfront, S3, Cloudfront Functions,...) (not that *low-impact*...), Bash, Linux (Sysadmin), Github Actions...
 
 I created in 2015 the [reSmush.it API](https://resmush.it) to bring optimized pictures to developers, and for free :) 
-Now, this service is the biggest FREE API in Image Optimization (with more than **25 billion images optimized**). It's optimizing **15 million pictures** daily, and I'm working hard to provide a strong reliability 💪 I sold my API in 2024 to my competitors [Shortpixel](https://www.shortpixel.com)
+This service was the biggest FREE API in Image Optimization (with more than **25 billion images optimized**), optimizing **15 million pictures** daily, and I worked hard to provide a strong reliability 💪 I sold my API in 2024 to my competitors [Shortpixel](https://www.shortpixel.com)
 
 I worked during 5 years as CTO for the [French Intranet solution Inside](https://www.intranet-inside.com/).🇫🇷 
 
@@ -15,11 +15,11 @@ I'm currently working as CTO since June 2022 at [medici.tv](https://www.medici.t
 
 #### 👨🏻‍💻 &nbsp; About Me
 
-💡 &nbsp; I like to test new technologies and find new ways to lower my ecological impact.
+💡 &nbsp; I like to test new technologies, solve issues and find new ways to lower my ecological impact.
 
-⚙️ &nbsp; I'm fond of automatization, simplifications for final users, and I use Github Actions, Bitbucket Pipelines, CI and CD. I also work on finOps aspects (especially with Amazon AWS)
+⚙️ &nbsp; I'm fond of AI, automatization, simplifications for final users, and I use Github Actions, Bitbucket Pipelines, CI and CD. I also work on finOps aspects (especially with Amazon AWS)
 
-👩 &nbsp; I worked also as a DPO, and GDPR has few secrets to me. What's more, I'm use to work on WCAG/RGAA topics :)
+👩 &nbsp; I worked also as a DPO, and GDPR has few secrets to me. What's more, I'm use to work on Accessibility (WCAG/RGAA) topics :)
 
 🎓 &nbsp; I studied in [Dublin City University](https://www.dcu.ie), Ireland, and I graduated a Masters degree in Telecommunications. 
 
